@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.828f562b.css",
+    "main.js": "/static/js/main.da4a2cf4.js",
+    "static/media/Italianno-Regular.ttf": "/static/media/Italianno-Regular.c6eb7cf640af62acad8d.ttf",
+    "static/media/ItalianBreakfast-Regular.ttf": "/static/media/ItalianBreakfast-Regular.2eefd28f5f8cd6d3fe7f.ttf",
+    "index.html": "/index.html",
+    "main.828f562b.css.map": "/static/css/main.828f562b.css.map",
+    "main.da4a2cf4.js.map": "/static/js/main.da4a2cf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.828f562b.css",
+    "static/js/main.da4a2cf4.js"
+  ]
+}
